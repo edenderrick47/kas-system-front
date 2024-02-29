@@ -1314,8 +1314,8 @@ Uri: https://evolvelogisticsltd.com/wp-content/uploads/2020/01/warehouse-2.jpg
 File Name: C:\Downloaded Web Sites\evolvelogisticsltd.com\wp-content\uploads\2020\01\warehouse-2.jpg
 Content Type: image/jpeg
 
-Uri: https://evolvelogisticsltd.com/wp-content/uploads/2021/02/Evolve-ICO-100x100.png
-File Name: C:\Downloaded Web Sites\evolvelogisticsltd.com\wp-content\uploads\2021\02\Evolve-ICO-100x100.png
+Uri: https://evolvelogisticsltd.com/wp-content/uploads/2021/02/android-chrome-192x192.png
+File Name: C:\Downloaded Web Sites\evolvelogisticsltd.com\wp-content\uploads\2021\02\android-chrome-192x192.png
 Content Type: image/png
 
 Uri: https://evolvelogisticsltd.com/wp-content/uploads/2021/02/Evolve-ICO-300x300.png
