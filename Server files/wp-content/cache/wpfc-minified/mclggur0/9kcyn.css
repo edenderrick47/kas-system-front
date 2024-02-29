@@ -96,7 +96,7 @@ background-image: linear-gradient(to right, #845a8a 0%,#421948 100%), linear-gra
 background-image: -webkit-linear-gradient(left, #421948 0%, #845a8a 100%);
 background-image: -moz-linear-gradient(left, #421948 0%, #845a8a 100%);
 background-image: -o-linear-gradient(left, #421948 0%, #845a8a 100%);
-background-image: linear-gradient(to right, #421948 0%,#845a8a 100%), linear-gradient(to right, #421948 0%,#845a8a 100%);
+background-image: linear-gradient(to right, #a71a20 0%,#a71a20 100%), linear-gradient(to right, #421948 0%,#845a8a 100%);
 }
 .icons-box .icons-wrap .icons-item:not(.type-3) {
 border-left-color: #421948;
