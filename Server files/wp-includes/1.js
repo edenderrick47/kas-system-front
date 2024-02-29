@@ -1,0 +1,2 @@
+var expeditor_global = {"template_directory":"https:\/\/www.evolvelogisticsltd.com\/wp-content\/themes\/expeditor1\/","site_url":"https:\/\/www.evolvelogisticsltd.com","ajax_nonce":"1c85d9913d","ajaxurl":"https:\/\/www.evolvelogisticsltd.com\/wp-admin\/admin-ajax.html","paththeme":"https:\/\/www.evolvelogisticsltd.com\/wp-content\/themes\/expeditor1","smooth_scroll":"0","primary_color":"#421948","ajax_loader_url":"https:\/\/www.evolvelogisticsltd.com\/wp-content\/themes\/expeditor1\/images\/ajax-loader@2x.gif"};
+         /* ]]> */

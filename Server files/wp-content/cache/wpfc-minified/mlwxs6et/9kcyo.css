@@ -1,0 +1,20 @@
+.wp-caption.alignright {
+margin-bottom: 20px;
+margin-left: 20px;
+}
+.wp-caption.alignleft  {
+margin-bottom: 20px;
+margin-right: 20px;
+}
+.wp-caption.alignnone { margin-bottom: 20px; }
+.wp-caption 	 { max-width: 100%; }
+.wp-caption-text { margin: 5px 0; } 
+.gallery {
+margin-bottom: 1.5em;
+}
+.gallery-caption {
+display: block;
+}
+.bypostauthor {
+display: block;
+}

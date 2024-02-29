@@ -1,0 +1,54 @@
+﻿@font-face {
+  font-family: 'Assistant';
+  font-style: normal;
+  font-weight: 300;
+  src: url(s/assistant/v19/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtrhnIGaV2g-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Assistant';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/assistant/v19/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtuZnIGaV2g-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Assistant';
+  font-style: normal;
+  font-weight: 600;
+  src: url(s/assistant/v19/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtjhgIGaV2g-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Assistant';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/assistant/v19/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtgFgIGaV2g-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Assistant';
+  font-style: normal;
+  font-weight: 800;
+  src: url(s/assistant/v19/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtmZgIGaV2g-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 300;
+  src: url(s/heebo/v26/NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yysdUmj-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/heebo/v26/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmj-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 500;
+  src: url(s/heebo/v26/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmj-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/heebo/v26/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiusdUmj-1.ttf) format('truetype');
+}
