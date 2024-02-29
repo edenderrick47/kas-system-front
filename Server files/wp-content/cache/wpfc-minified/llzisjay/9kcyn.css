@@ -890,7 +890,7 @@ left: 0;
 margin-top: 4px;
 } #header.header-6 .top-bar{
 color: #fff;
-background: #313131;
+background: #a71a20;
 border-bottom: 4px solid #68bb60;
 }
 #header.header-6 .top-bar .client-info > li > a{
@@ -1037,7 +1037,7 @@ right: 20px;
 .responsive-nav-button{
 display: none;
 text-align: center;
-color: #845a8a;
+color: #a71a20;
 font-size: 23px;
 z-index: 2;
 border-radius: 0;
