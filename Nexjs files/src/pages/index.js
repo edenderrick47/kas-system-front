@@ -14,8 +14,10 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+
+
       <iframe
-  src='https://dotcreative.co.ke/devs/kas' frameBorder={0} width="100%"height="640px"allowFullScreen=""/>
+  src='https://dotcreative.co.ke/devs/kas' frameBorder={0} width="100%"height="813px"allowFullScreen=""/>         
 
     </>
   );
